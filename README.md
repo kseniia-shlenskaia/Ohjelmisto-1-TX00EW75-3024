@@ -2,4 +2,4 @@
 
 #### Kseniia Shlenskaia
 *Tieto- ja viestintätekniikka*
-**Kurssikoodi:** TXK25K1-A
+TXK25K1-A
