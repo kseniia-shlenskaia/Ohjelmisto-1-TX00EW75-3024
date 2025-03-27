@@ -5,8 +5,6 @@
 **Koodi:** TX00EW76-3024
 
 ---
-
-## Opiskelija
 **Kseniia Shlenskaia**
 
 *Tieto- ja viestintätekniikka:* **TXK25K1-A**
