@@ -15,5 +15,3 @@ try:
         print(f"Temperature: {temp:.1f} °C")
 except requests.exceptions.RequestException as e:
     print(f"Error: {e}")
-
-
